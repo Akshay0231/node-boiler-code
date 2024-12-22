@@ -1,0 +1,14 @@
+{
+  "name": "boiler-code",
+  "version": "1.0.0",
+  "description": "This is starter code for nodejs backend app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Akshay Kumbhar",
+  "license": "ISC"
+}
